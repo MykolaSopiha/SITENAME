@@ -178,7 +178,7 @@ header .title {
 
 /*RESPONSIVE MENU*/
 li.resp-menu {display: none;}
-@media (max-width: 770px) {
+@media (max-width: 767px) {
 	li.resp-menu  		{ display: block; }
 	.navbar-header 		{ height: 72px; }
 	.nav, .navbar-form  { margin: 5px auto; }
